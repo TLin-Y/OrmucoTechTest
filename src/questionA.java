@@ -12,10 +12,7 @@ whether they overlap.
 As an example, (1,5) and (2,6) overlaps but not (1,5) and (6,8).
  */
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 
 public class questionA {
     public static void main(String[] args) {
